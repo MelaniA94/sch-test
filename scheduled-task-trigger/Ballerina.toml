@@ -1,0 +1,8 @@
+[package]
+org = "wso2"
+name = "scheduled_task_trigger"
+version = "1.0.0"
+distribution = "2201.7.2"
+
+[build-options]
+observabilityIncluded = true
